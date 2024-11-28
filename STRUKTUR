@@ -1,0 +1,14 @@
+/peminjaman_auditorium/
+    /css/
+        style.css
+    /js/
+        script.js
+    /includes/
+        db.php
+        header.php
+        footer.php
+    index.php
+    login.php
+    register.php
+    dashboard.php
+    peminjaman.php

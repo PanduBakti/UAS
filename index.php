@@ -43,7 +43,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <button type="submit">Login</button>
         </form>
         <a href="register.php">Create an Account</a>
-        <img src="WhatsApp Image 2024-11-13 at 19.49.54_67399b65.jpg">
+
     </div>
 </body>
 </html>
